@@ -1,38 +1,46 @@
 {
     "ANTPAL": {
-        "latin": "",
-        "en": "",
+        "latin": "Antrozous pallidus",
+        "en": "Pallid bat"
+    },
+    "EPTFUS": {
+        "latin": "Eptesicus fuscus",
+        "en": "Big Brown bat"
     },
     "LASBLO": {
-        "latin": "",
-        "en": "",
+        "latin": "Lasiurus blossevillii",
+        "en": "Western red bat"
     },
     "LASCIN": {
-        "latin": "",
-        "en": "",
+        "latin": "Lasiurus cinereus",
+        "en": "Hoary bat"
     },
     "LASINT": {
-        "latin": "",
-        "en": "",
+        "latin": "Lasiurus intermedius",
+        "en": "Northern Yellow bat"
     },
     "LASNOC": {
-        "latin": "",
-        "en": "",
+        "latin": "Lasionycteris noctivagans",
+        "en": "Silver-haired bat"
     },
     "MYOCAL": {
-        "latin": "",
-        "en": "",
+        "latin": "Myotis californicus",
+        "en": "California myotis"
     },
     "MYOCIL":  {
-        "latin": "",
-        "en": "",
+        "latin": "Myotis ciliolabrum",
+        "en": "Western small-footed myotis"
+    },
+    "MYOGRI":  {
+        "latin": "Myotis grisescens",
+        "en": "Gray myotis"
     },
     "MYOYUM":  {
-        "latin": "",
-        "en": "",
+        "latin": "Myotis yumanensis",
+        "en": "Yuma myotis"
     },
     "TADBRA": {
-        "latin": "Tadaria brasiliensis",
-        "en": "Mexican Free-tailed bat"
+        "latin": "Tadarida brasiliensis",
+        "en": "Mexican free-tailed bat"
     }
 }
