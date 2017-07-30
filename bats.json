@@ -1,46 +1,57 @@
 {
     "ANTPAL": {
         "latin": "Antrozous pallidus",
-        "en": "Pallid bat"
+        "en": "Pallid bat",
+        "inat_id": "40614"
     },
     "EPTFUS": {
         "latin": "Eptesicus fuscus",
-        "en": "Big Brown bat"
+        "en": "Big Brown bat",
+        "inat_id": "40509"
     },
     "LASBLO": {
         "latin": "Lasiurus blossevillii",
-        "en": "Western red bat"
+        "en": "Western red bat",
+        "inat_id": "40520"
     },
     "LASCIN": {
         "latin": "Lasiurus cinereus",
-        "en": "Hoary bat"
+        "en": "Hoary bat",
+        "inat_id": "40523"
     },
     "LASINT": {
         "latin": "Lasiurus intermedius",
-        "en": "Northern Yellow bat"
+        "en": "Northern Yellow bat",
+        "inat_id": "40527"
     },
     "LASNOC": {
         "latin": "Lasionycteris noctivagans",
-        "en": "Silver-haired bat"
+        "en": "Silver-haired bat",
+        "inat_id": "40629"
     },
     "MYOCAL": {
         "latin": "Myotis californicus",
-        "en": "California myotis"
+        "en": "California myotis",
+        "inat_id": "40342"
     },
     "MYOCIL":  {
         "latin": "Myotis ciliolabrum",
-        "en": "Western small-footed myotis"
+        "en": "Western small-footed myotis",
+        "inat_id": "68093"
     },
     "MYOGRI":  {
         "latin": "Myotis grisescens",
-        "en": "Gray myotis"
+        "en": "Gray myotis",
+        "inat_id": "40352"
     },
     "MYOYUM":  {
         "latin": "Myotis yumanensis",
-        "en": "Yuma myotis"
+        "en": "Yuma myotis",
+        "inat_id": "40325"
     },
     "TADBRA": {
         "latin": "Tadarida brasiliensis",
-        "en": "Mexican free-tailed bat"
+        "en": "Mexican free-tailed bat",
+        "inat_id": "41301"
     }
 }
